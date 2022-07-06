@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ray-tx", "ray-tx\ray-tx.vcxproj", "{187715DD-2211-42CF-8E86-40DF30924E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Debug|x64.ActiveCfg = Debug|x64
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Debug|x64.Build.0 = Debug|x64
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Debug|x86.Build.0 = Debug|Win32
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Release|x64.ActiveCfg = Release|x64
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Release|x64.Build.0 = Release|x64
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Release|x86.ActiveCfg = Release|Win32
+		{187715DD-2211-42CF-8E86-40DF30924E1E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB6BD87-AC05-4E3F-96A2-7D2166C1F8CB}
+	EndGlobalSection
+EndGlobal
